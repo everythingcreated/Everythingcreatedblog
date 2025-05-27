@@ -1,4 +1,7 @@
-# The Site Configuration 
+title: My Plant Shop
+tagline: Rare Plants, Crystals, and Exotic Pets
+description: >- 
+  Welcome to my online home for unique plants, small animals, and stones. 
 
 # Import the theme
 theme: jekyll-theme-chirpy
